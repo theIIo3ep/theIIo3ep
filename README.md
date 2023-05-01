@@ -4,6 +4,8 @@
 
 I am a novice programmer in the field of discord bots. Every day I'm progressing, making bots and more!
 
+Skills: Python / HTML / CSS
+
 - 🔭 I’m currently working on discord bots. 
 - 🌱 I’m currently learning develop bots 
 - ⚡ Fun fact: without friends, life is not life 
